@@ -68,6 +68,7 @@ public class News extends HttpServlet {
 				for (Article article : articles) {
 					articleData.put("article", article);
 					//单个新闻文件
+
 					file=new File(request.getServletContext().getRealPath("/news/"+article.getId()+".html"));
 					//文件输出流写入器
 					writer=new OutputStreamWriter(new FileOutputStream(file), "UTF-8");
