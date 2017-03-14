@@ -1313,4 +1313,4 @@ j2ee
 
 [github下载或预览代码](https://github.com/muyinchen/migo-freemaker)
 
-参考：http://www.cnblogs.com/best/archive/2016/08/01/5681511.html
+摘自：http://www.cnblogs.com/best/archive/2016/08/01/5681511.html
